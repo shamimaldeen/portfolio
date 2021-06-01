@@ -1,0 +1,3 @@
+This is a project for selling individual products. Here several categories and brand are displayed. Search is also implemented for finding required products. From admin panel it is possible to manage products, orders and customers also. You should login from below details
+username: admin@gmail.com
+password: admin
